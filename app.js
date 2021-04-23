@@ -20,8 +20,8 @@ let countdwn = function countdown() {
 }
 
 function reset() {
-    minutes.textContent = "00";
-    secondes.textContent = "02";
+    minutes.textContent = "25";
+    secondes.textContent = "00";
 }
 
 start.addEventListener("click", function () {
